@@ -1,4 +1,4 @@
-# Module 18 Social Network API
+# Module 19 PWA Text Editor
 ![License Badge](https://shields.io/badge/license-MIT-green)
 ## Table of Contents
 1. [Description](#description)
